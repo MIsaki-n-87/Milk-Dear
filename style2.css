@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #3b3c3e;
+}
+#contact-sec{
+    background-image: url(../images/whippedcream.png);
+    background-repeat: no-repeat;
+    background-position: right 80px top 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 75%;
+    height: 130px;
+    margin: 0 auto;
+    position: relative;
+}
+#contact{
+    font-size: 18px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    text-align: center;
+    padding-top: 70px;
+}
+.contact-form {
+  max-width: 860px;
+  margin: 0 auto;
+}
+.form-group {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 45px;
+}
+.form-group label {
+  width: 200px; /* ラベル幅 */
+  padding-top: 8px;
+  text-align: left;
+  font-family: "游明朝","Yu Gothic","メイリオ";
+  font-weight: bold;
+}
+.required {
+  background-color: #c50021;
+  font-family: "游明朝","Yu Gothic","メイリオ";
+  color: white;
+  padding: 1px 2px;
+  font-size: 14px;
+  margin-left: 5px;
+}
+.form-group input,
+.form-group textarea {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background: #f2f2f2;
+  font-size: 16px;
+  font-family: "Noto Sans JP","Yu Gothic","メイリオ";
+}
+textarea {
+  height: 100px;
+  resize: vertical;
+}
+#button{
+    width: 220px;
+    display: block;
+    padding: 10px 20px;
+    background-color: #fff;
+    border: 1px solid #3b3c3e;
+    font-size: 18px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    font-weight: bold;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-decoration: none;
+}    

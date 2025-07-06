@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #3b3c3e;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+header{
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    background-color: rgba(56, 58, 59, 0.85);
+}
+#logo{
+    float: left;
+    margin-top:10px;
+    margin-left: 100px;
+}
+#headerRight{
+    float: right;
+    margin-top: 14px;
+    margin-right: 100px;
+}
+#gNavi a{
+    text-decoration: none;
+    font-size: 18px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    color: #fff;
+}
+#gNavi li{
+    float: left;
+    margin-right: 55px;
+}
+#gNavi li:nth-child(7){
+    margin-right: 0;
+}
+#mainphoto {
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#concept{
+    font-size: 32px;
+    font-family: "Microsoft Himalaya","Yu Gothic","メイリオ";
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#concept-text{
+    font-size: 17px;
+    font-family: "Noto Sans JP","Yu Gothic","メイリオ";
+    text-align: center;
+    line-height: 3;
+}
+h2{
+    font-size: 19px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10px;
+}
+#button{
+    color: #3b3c3e;
+    width: 220px;
+    display: block;
+    padding: 10px 15px;
+    background-color: #ddd0c0;
+    border: 1px solid #3b3c3e;
+    font-size: 18px;
+    font-family: "Noto Sans JP","Yu Gothic","メイリオ";
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-decoration: none;
+    border-radius: 5px;
+}    
+#menu-sec{
+    width: 810px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+#menu{
+    font-size: 32px;
+    font-family: "Microsoft Himalaya","Yu Gothic","メイリオ";
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
+#subphoto{
+    float: left;
+}
+#drink_menu{
+    float: right;
+    text-align: center;
+    font-size: 18px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    margin-top: 68px;
+    padding-right: 135px;
+}
+#drink-menu{
+    float: right;
+    font-size: 16px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    font-weight: bold;
+    margin-top: 50px;
+}
+.eee{
+    margin-top: 10px;
+}
+.fff{
+    margin-top: 10px;
+}
+.ggg{
+    margin-top: 10px;
+}
+#creampuff{
+    float: left;
+    margin-top: 30px;
+    padding-left: 123px;
+}
+#coffee{
+    float: right;
+    margin-top: 50px;
+    padding-right: 12px;
+}
+#news{
+    font-size: 18px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    text-align: center;
+    margin-top: 100px;
+}
+#news_text{
+    width: 810px;
+    margin-top: 45px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hhh{
+    font-size: 16px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    font-weight: bolder;
+    margin-left: 25px;
+}
+.iii{
+    font-size: 16px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    font-weight: bold;
+    margin-left: 25px;
+}
+#access-sec{
+    width: 840px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+#access{
+    font-size: 18px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    font-weight: bold;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 90px;
+}
+#googlemap iframe{  
+    width: 895px;
+    height: 330px; 
+}
+#googlemap{
+    width: 895px;
+    height: 330px;
+    margin: 0 auto;
+}
+#exterior{
+    float: left;
+    margin-top: 50px;
+}
+#access-text{
+    font-size: 16px;
+    font-family: "Noto Sans JP","Yu Gothic","メイリオ";
+    float: right;
+    margin-top: 58px;
+    line-height: 1.6;
+}
+.rrr{
+    margin-top: 20px;
+}
+#instagram{
+    width: 74px;
+    margin: 0 auto;
+    margin-top: 115px;
+}
+#footer-text{
+    font-size: 9px;
+    font-family: "游明朝","Yu Gothic","メイリオ";
+    text-align: center;
+    margin-top: 75px;
+    margin-bottom: 50px;
+}
